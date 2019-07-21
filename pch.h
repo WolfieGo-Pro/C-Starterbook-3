@@ -1,13 +1,11 @@
 #ifndef PCH_H
 #define PCH_H
 
-//using namespace std;
-
 #include <iostream>
 #include <string>
-#include <limits>
-#include "My_Vars.h"
-#include "Player_BP.h"
+#include <iomanip>
+#include <cctype> //For Input Validation
+#include "my_variables.h"
+#include "user_info.h"
 
-
-#endif // PCH_H
+#endif // !PCH_H
