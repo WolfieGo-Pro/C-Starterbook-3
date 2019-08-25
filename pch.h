@@ -4,7 +4,8 @@
 #include <iostream>
 #include <string>
 #include <iomanip>
-#include "Humans.h"
-#include "Animals.h"
+#include "Person.h"
+#include <limits>
+#include <xkeycheck.h>
 
 #endif // !PCH_H
