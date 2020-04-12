@@ -1,4 +1,5 @@
 # C++ Starterbook-3
 
-Continuation form C++ Starterbook-2 including OOP concepts, Class, Object instantiation, Pointers, 
-Dynamic Memory Allocation and a deeper understanding as to what problem I am trying to solve through code.
+Practicing where exactly templates are and can be used.
+
+Default templates, type parameters, non-type parameters, variadic, template specialization, auto
